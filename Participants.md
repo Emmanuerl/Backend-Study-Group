@@ -15,3 +15,5 @@
 [Zubs](https://github.com/Zubs)
 
 [Hyeman Samuel](https://github.com/Hyeman-Samuel)
+
+[LordGhostX](https://github.com/LordGhostX)
