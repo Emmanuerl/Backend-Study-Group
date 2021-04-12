@@ -13,3 +13,5 @@
 [Akinboluwarin Akinwande](https://github.com/bolubee101)
 
 [Zubs](https://github.com/Zubs)
+
+[Hyeman Samuel](https://github.com/Hyeman-Samuel)
