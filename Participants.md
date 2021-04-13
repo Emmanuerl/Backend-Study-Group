@@ -17,3 +17,5 @@
 [Hyeman Samuel](https://github.com/Hyeman-Samuel)
 
 [LordGhostX](https://github.com/LordGhostX)
+
+[chiiyomah](https://github.com/chiiyomah)
