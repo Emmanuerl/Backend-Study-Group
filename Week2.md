@@ -64,3 +64,39 @@
 - [Basics of Computer Networking](https://www.geeksforgeeks.org/basics-computer-networking/)
 #### Videos
 - [Networking basics (2020) | What is a switch, router, gateway, subnet, gateway, firewall & DMZ](https://youtu.be/_IOZ8_cPgu8)
+
+
+## Interoperability
+#### Articles
+- [What is Language Interoperability](https://en.wikipedia.org/wiki/Language_interoperability)?
+- [Go, Javascript Interoperability](https://github.com/gopherjs/gopherjs).
+- [Go to Javascript Interoperability.](https://go-app.dev/js)
+
+#### Videos
+- [What does Language Interoperability mean](https://www.youtube.com/watch?v=1J24_N7rSbI)?
+- [Protocol Buffers and Language Interoperability](https://www.youtube.com/watch?v=D08v9Bu0yqA).
+
+## Web Assembly
+#### Articles
+- [Web Assembly](https://webassembly.org/)
+- [What’s wrong with Web Assembly](https://blog.bitsrc.io/whats-wrong-with-web-assembly-3b9abb671ec2)?
+- [Tutorialspoint Web Assembly tutorial.](https://www.tutorialspoint.com/webassembly/webassembly_overview.htm)
+
+#### Videos
+
+- [Web Assembly](https://www.youtube.com/watch?v=cbB3QEwWMlA)(WASM).
+- [Why Web Assembly is the future of Web development](https://www.youtube.com/watch?v=5LhGMq5wvmk)
+
+## Web2, Web3 Interconnectivity
+#### Articles
+- Introduction to web3Js.
+- Cosmos IBC and Golang.
+
+#### Videos
+
+- [Is web3 worth all the hype?](https://www.youtube.com/watch?v=wHTcrmhskto)
+- [Web3 JS in 2 mins](https://www.youtube.com/watch?v=b41OPU0-4bY).
+- [Solidity in 100 Seconds.](https://www.youtube.com/watch?v=kdvVwGrV7ec)
+- [How Syntropy helps transform web2 to web3](https://www.youtube.com/watch?v=dM8ZESMCL-k).
+
+
